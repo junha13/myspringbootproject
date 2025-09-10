@@ -21,4 +21,8 @@ public class HelloController {
 		model.addAttribute("ab", vo);
 		return "hello";
 	}
+	
+	public String dd() {
+		return null;
+	}
 }
