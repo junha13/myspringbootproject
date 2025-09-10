@@ -21,4 +21,7 @@ public class HelloController {
 		model.addAttribute("ab", vo);
 		return "hello";
 	}
+public static void yewon() {
+	
+}
 }
