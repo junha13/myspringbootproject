@@ -25,4 +25,7 @@ public class HelloController {
 	public String dd() {
 		return null;
 	}
+public static void yewon() {
+	
+}
 }
